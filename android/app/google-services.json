@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "167468468209",
+    "firebase_url": "https://tea-talks1-99be7-default-rtdb.firebaseio.com",
+    "project_id": "tea-talks1-99be7",
+    "storage_bucket": "tea-talks1-99be7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167468468209:android:8b664633d016ba6e306650",
+        "android_client_info": {
+          "package_name": "com.privatechat.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167468468209-tb66gg7u65ra7ohn92en028m23m29pia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGX_DQzvcyVlMVX1gvAzw2t-y2unS-XqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167468468209-tb66gg7u65ra7ohn92en028m23m29pia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
