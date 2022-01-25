@@ -6,6 +6,6 @@ Tea-Talks is a chat 💬 application where you can create rooms to chat 🗣️ 
  
 ![WhatsApp Image 2022-01-26 at 12 07 12 AM](https://user-images.githubusercontent.com/53148611/151038433-e7a3d72b-dcbe-484f-b5c2-8edd781db872.jpeg)
 
-PS: The sensitive contents are not added in the repository. They contain a password of length 32, stored by the developer, which is used in combination with the user provided password to generate a strong password combination, which is finally used for encryption.
+PS: The sensitive contents are not added to the repository. They contain a password of length 32, stored by the developer, which is used in combination with the user provided password to generate a strong password combination, which is finally used for encryption.
 
 Basically just to add a layer of security, in case the user password is very easy to guess.
