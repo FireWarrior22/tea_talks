@@ -1,16 +1,6 @@
-# tea_talks
+Tea-Talks is a chat 💬 application where you can create rooms to chat 🗣️ and watch videos 📺 together. It has an in-app browser that is synced across all users to enjoy watching videos together. The chats are end-to-end ecnrypted. The backend is implemented using Firebase. 
 
-A new Flutter project.
 
-## Getting Started
+PS: The sensitive contents are not added in the repository. They contain a password of length 32, stored by the developer, which is used in combination with the user provided password to generate a strong password combination, which is finally used for encryption.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Basically just to add a layer of security, in case the user password is very easy to guess.
