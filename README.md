@@ -1,4 +1,4 @@
-Tea-Talks is a chat 💬 application where you can create rooms to chat 🗣️ and watch videos 📺 together. It has an in-app browser that is synced across all users to enjoy watching videos together. The chats are end-to-end ecnrypted. The backend is implemented using Firebase. 
+Tea-Talks is a chat 💬 application where you can create rooms to chat 🗣️ and watch videos 📺 together with friends and family. It has an in-app browser that is synced across all users to enjoy watching videos together. The chats are end-to-end ecnrypted. The backend is implemented using Firebase. 
 
  ![WhatsApp Image 2022-01-26 at 12 07 12 AM(2)](https://user-images.githubusercontent.com/53148611/151038405-ca3b5104-4cdb-46aa-ab74-3dcbf9f2699c.jpeg)
 
